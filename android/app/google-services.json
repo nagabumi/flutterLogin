@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448760570085",
+    "firebase_url": "https://learnflutter-d86da.firebaseio.com",
+    "project_id": "learnflutter-d86da",
+    "storage_bucket": "learnflutter-d86da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448760570085:android:a798cabf7138d3386e740c",
+        "android_client_info": {
+          "package_name": "com.nagabumi.flutterLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448760570085-qu6pk3harbs1c2u7mldj7hnr8jtvefdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvEEB657ARUMlVV6O933AHEeo5RGQOss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448760570085-qu6pk3harbs1c2u7mldj7hnr8jtvefdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
